@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="email">Tu email</string>
+    <string name="enviar">Enviar la messagita</string>
+    <string name="mensagem">Messagita</string>
+    <string name="nome">Tu nombre</string>
+    <string name="obs">Observaciones</string>
+    <string name="spam">Ai aiaiaiaiai</string>
+</resources>

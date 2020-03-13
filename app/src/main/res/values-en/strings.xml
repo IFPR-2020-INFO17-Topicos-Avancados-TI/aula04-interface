@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="email">Email</string>
+    <string name="enviar">Send Message</string>
+    <string name="mensagem">Message</string>
+    <string name="nome">Username</string>
+    <string name="obs">Remarks</string>
+    <string name="spam">I want to receive a lot os SPAM</string>
+</resources>

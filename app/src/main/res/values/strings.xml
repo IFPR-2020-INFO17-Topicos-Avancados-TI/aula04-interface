@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">My Application</string>
+    <string name="nome">Nome do Usuário</string>
+    <string name="spam">Me enviar muito SPAM</string>
+    <string name="email">Email</string>
+    <string name="mensagem">Mensagem a ser enviada</string>
+    <string name="obs">Outras Observações</string>
+    <string name="enviar">Enviar Mensagem</string>
+</resources>
